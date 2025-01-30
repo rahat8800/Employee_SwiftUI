@@ -1,0 +1,40 @@
+# Xcode
+.DS_Store
+DerivedData
+*.xcconfig
+*.xcuserdata
+xcuserdata/
+
+# Build products
+build/
+Build/Products/
+*.app
+*.dSYM
+*.ipa
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/
+
+# Swift Package Manager
+.build/
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+
+# Sensitive information (API keys, passwords, etc.)
+# Keep these out of version control!  Use environment variables instead.
+# Example:
+# config.json  (If you have a config file, add it, but ideally, use environment variables)
+
+# Files that should NOT be ignored (examples)
+# .gitignore  (This file itself should be tracked)
+# README.md
+# LICENSE
